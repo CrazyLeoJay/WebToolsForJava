@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zxing-javase:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zxing_javase_jar</output-path>
+    <root id="archive" name="zxing-javase.jar">
+      <element id="module-output" name="zxing-javase" />
+      <element id="module-output" name="zxing-core" />
+      <element id="module-output" name="JCommander" />
+    </root>
+  </artifact>
+</component>

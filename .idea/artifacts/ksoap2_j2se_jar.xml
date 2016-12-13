@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ksoap2-j2se:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ksoap2_j2se_jar</output-path>
+    <root id="archive" name="ksoap2-j2se.jar">
+      <element id="module-output" name="ksoap2-j2se" />
+      <element id="module-output" name="ksoap2-base" />
+      <element id="module-output" name="kObjects Utilities" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/api/kxml2/kxml2-2.3.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Documents/api/kxml2/kxml2-2.3.0.jar" />
+    </root>
+  </artifact>
+</component>

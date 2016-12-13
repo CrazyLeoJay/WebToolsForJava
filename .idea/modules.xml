@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JCommander/JCommander.iml" filepath="$PROJECT_DIR$/JCommander/JCommander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebTools.iml" filepath="$PROJECT_DIR$/WebTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kObjects Utilities/kObjects Utilities.iml" filepath="$PROJECT_DIR$/kObjects Utilities/kObjects Utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ksoap2-base/ksoap2-base.iml" filepath="$PROJECT_DIR$/ksoap2-base/ksoap2-base.iml" group="ksoap2" />
+      <module fileurl="file://$PROJECT_DIR$/ksoap2-j2se/ksoap2-j2se.iml" filepath="$PROJECT_DIR$/ksoap2-j2se/ksoap2-j2se.iml" group="ksoap2" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-core/zxing-core.iml" filepath="$PROJECT_DIR$/zxing-core/zxing-core.iml" group="zxing" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-javase/zxing-javase.iml" filepath="$PROJECT_DIR$/zxing-javase/zxing-javase.iml" group="zxing" />
+    </modules>
+  </component>
+</project>

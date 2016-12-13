@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/api/junit4/junit-4/hamcrest-core-1.3.rc2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/api/junit4/junit-4/hamcrest-library-1.3.rc2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/api/junit4/junit-4/junit-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
